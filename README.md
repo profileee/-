@@ -4,7 +4,7 @@
 python脚本实现预约青岛大学图书馆位置
 默认预约第二天的09:00:00到15:00:00，16:00:00到22:00:00两条预约。
 
-签到可在此链接实现远程签到：https://profileee.github.io/qdu-lib-remote-checkin/
+签到可在此链接实现远程签到：https://profileee.github.io/qdu-lib-remote-checkin/ （微信打开）
 
 可配置好后自己设置定时任务定时执行（每天7点可预约第二天位置）
 
