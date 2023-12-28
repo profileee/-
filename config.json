@@ -1,0 +1,10 @@
+{
+    "username": "学号",
+    "password": "统一认证系统密码",
+    "roomId": "预约房间号（对照房间对应表格）",
+    "seatId": "预约座位号",
+    "startTime1": "09:00:00",
+    "endTime1": "15:00:00",
+    "startTime2": "16:00:00",
+    "endTime2": "22:00:00"
+}
